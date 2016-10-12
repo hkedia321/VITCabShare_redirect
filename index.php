@@ -1,3 +1,3 @@
 <?php
-header("Location:vitcabshare.16mb.com");
+header("Location:http://vitcabshare.16mb.com");
 ?>
